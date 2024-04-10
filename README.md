@@ -1,4 +1,4 @@
-[!Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://perfil-renda.streamlit.app/)
+[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://perfil-renda.streamlit.app/)
 
 # Modelagem de previsão de renda 💰 e estudo de perfil 👤
 
