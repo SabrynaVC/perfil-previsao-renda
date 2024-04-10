@@ -1,4 +1,4 @@
-![(https://camo.githubusercontent.com/2d35d09dad4cee1f9f94d8813d50c187602f2d319d36553cc576f827393182a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d7768697465)](https://perfil-renda.streamlit.app/)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 # Modelagem de previsão de renda 💰 e estudo de perfil 👤
 
