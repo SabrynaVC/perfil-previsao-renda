@@ -7,11 +7,9 @@
 
 Nesse projeto, o objetivo será fazer uma análise profunda do perfil dos seus clientes atuais e um bom modelo de previsão de renda para novos clientes que ingressarem na instituição.
 
-Para termos esses resultados, no Notebook vamos fazer análises dos dados que temos disponíveis no banco de dados e depois iremos criar o sistema de modelagem.
+Para termos esses resultados, no [Notebook](https://github.com/SabrynaVC/previsao-renda/blob/main/Projeto_2.ipynb) vamos fazer análises dos dados que temos disponíveis no banco de dados e depois iremos criar o sistema de modelagem.
 
-Também ficará disponível uma página no StreamLit com as análises de perfil. 
-
-Link da página: https://perfil-renda.streamlit.app/
+Também ficará disponível uma [página no StreamLit](https://perfil-renda.streamlit.app/) com as análises de perfil. 
 
 Uma prévia da página abaixo:
 
