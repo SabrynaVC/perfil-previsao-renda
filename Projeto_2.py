@@ -3,10 +3,6 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
-import statsmodels.formula.api as smf
-import statsmodels.api as sm
-
-from sklearn.model_selection import train_test_split
 
 st.set_page_config(page_icon = ':moneybag:', page_title = 'Previsão de Renda', layout = 'wide')
 
