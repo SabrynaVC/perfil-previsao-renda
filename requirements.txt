@@ -6,6 +6,3 @@ pandas-datareader
 prophet
 seaborn
 numpy   
-statsmodels.formula.api                                  
-statsmodels.api                                           
-sklearn.model_selection
