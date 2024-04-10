@@ -1,5 +1,4 @@
-# Modelagem de previsão de renda 💰 
-# e estudo de perfil 👤
+# Modelagem de previsão de renda 💰 e estudo de perfil 👤
 
 Nesse projeto, o objetivo será fazer uma análise profunda do perfil dos seus clientes atuais e um bom modelo de previsão de renda para novos clientes que ingressarem na instituição.
 
