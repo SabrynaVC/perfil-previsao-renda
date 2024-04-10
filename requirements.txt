@@ -5,3 +5,8 @@ yfinance
 pandas-datareader
 prophet
 seaborn
+numpy   
+statsmodels
+statsmodels.formula.api                                  
+statsmodels.api                                           
+sklearn.model_selection
